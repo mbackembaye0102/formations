@@ -1,0 +1,73 @@
+<div class="container">
+            <div class="row">
+            <div class="col-md-6">
+                             <div class="row" >
+                                <div  id="soundimage" >C'est quoi internet ?</div>
+                            </div> <br>
+                            <div class="row">
+                                <div  id="image"> 
+                                <img src="images/amidia1.jpg" alt=""> </div>
+                            </div>
+                            <div class="row">
+                                <div  id="soundimage">
+                                <img src="images/fb.png" alt="">
+                            </div>
+                            </div>
+            </div>
+            <div class="col-md-6">
+                    <div class="row">
+                    <div class="col-md-6">
+                    <a href="#"  onclick="premier()">
+                            <p class="q" ><span style="font-size: 25px;" id="rep1">C'est une phrase</span> </p> 
+                            
+                        </a>
+                        <div id="play1">  <img src="images/fb.png" alt=""></div>
+                    </div>
+                      
+                    </div>
+                        <br>
+               
+                        <br>
+                  
+            </div>
+
+            </div>
+
+
+
+
+
+
+    <div class="container">
+            <div class="row">
+                <div class="col-md-3" style="margin-top: 75px;">
+                    <div class="row" >
+                                <div  id="soundimage" style="font-size: 25px;" >C'est quoi internet ?</div>
+                    </div> <br>
+                           <br>
+                    <div class="row">
+                                <div  id="soundimage">
+                                <img src="images/fb.png" alt="">
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-9" style="margin-top: 75px;">
+                
+                <div class="row">
+                   <div class="col-md-6">
+                       <a href="#"  onclick="premier()">
+                       <img src="images/amidia.jpg" width="300" height="200" alt="">              </div>
+                            
+                        </a>
+                    </div>
+
+                    <div class="col-md-6" >
+                       <a href="#"  onclick="premier()">
+                       <img src="images/amidia.jpg" width="300" height="200" alt="">              </div>
+                        </a>
+                    </div>               
+                  
+                </div>
+
+        </div>
+
